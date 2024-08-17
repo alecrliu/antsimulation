@@ -21,9 +21,9 @@ Drawing:
 - A grid is drawn using loops to draw lines on a blank canvas at set intervals.
 - Rectangles of different colors fill in the grid at the designated grid square while hiding the previous location of the ant.
 
-Issues:
+Solved:
 - making the ant turn in the direction of motion
 - grid sizing lining up with the drawing locations
 - getting the extra colors to show and not repeat
 - making each ant appear and disappear
-- when two or more ants land at the same time on a grid
+- what happens when two or more ants land at the same time on a grid
