@@ -1,6 +1,4 @@
 # antsimulation
-An enhanced Langton's Ant simulator with four colors, resizable grid sizes, and as many ants as you want (3 in this case).
-
 ## Instructions:
 Just watch the simulation by running antsimulation.pde. You can add more ants by creating more Ant instances with differing coordinates.
 
